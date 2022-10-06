@@ -1,0 +1,13 @@
+.bg-login-image{
+	background: url("../img/venta de garaje.jpeg");
+	background-position: center;
+	background-size: cover;
+	border: 5px;
+        height: 200px;
+        width: 200px;
+}
+
+.sizeDiv{
+	width:40vw;
+}
+
