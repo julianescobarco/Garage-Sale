@@ -1,2 +1,1 @@
-# Venta_De_Garaje
-Este proyecto es un ejemplo de E-comerce basico con técnologias Java (Backend), Bootstrap (Frontend), Maria DB (Bases de datos) y Postman para pruebas Http request.
+This project is an example of basic E-comerce with Java (Backend), Bootstrap (Frontend), Maria DB (Databases) and Postman technologies for Http request testing.
